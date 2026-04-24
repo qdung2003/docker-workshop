@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment and secrets
+.venv/
+.vscode/
+.env
+
+# Directories to ignore
+data/
+test/
+txt/
+
+
+# Data files
+*.parquet
+*.csv
+*.json
+*.html
+*.txt
+*.db
